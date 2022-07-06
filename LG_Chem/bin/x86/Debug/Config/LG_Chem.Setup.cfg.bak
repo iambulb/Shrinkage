@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Setup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LineID>LG</LineID>
+  <Oper>Hanmech</Oper>
+  <CurrentModel>Default</CurrentModel>
+  <IsPassMode>false</IsPassMode>
+  <CamProp />
+  <_camProperty />
+  <lightValue>100</lightValue>
+  <middleValue>117.5</middleValue>
+  <lightProp />
+  <PlcProp>
+    <ipAddress>100.100.100.20</ipAddress>
+    <port>4100</port>
+    <alaram_port>1000</alaram_port>
+  </PlcProp>
+  <MesProp>
+    <bUseMes>true</bUseMes>
+    <ipAddress>127.0.0.1</ipAddress>
+    <port>9000</port>
+  </MesProp>
+  <eimgtype>PNG</eimgtype>
+  <ImageFolderPath />
+  <ResultFolderPath />
+  <ConnectorDay>180</ConnectorDay>
+  <UsedDiskPercentage>80</UsedDiskPercentage>
+  <plcFilePath />
+  <Alaram_Status_Path />
+</Setup>

@@ -1,0 +1,164 @@
+[09:24:15.815] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[09:25:19.848] Serial Com COM3 not open.
+[09:25:19.868] Serial Com COM3 not open.
+[09:31:25.183] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[09:33:44.853] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[09:35:48.579] Serial Com COM3 not open.
+[09:35:48.596] Serial Com COM3 not open.
+[09:57:34.434] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[12:54:12.880] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[12:59:32.650] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[12:59:41.643] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[13:05:01.829] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[13:27:18.469] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[13:36:00.658] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[13:43:58.392] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[13:45:40.758] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[13:50:32.003] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[13:56:23.917] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[13:58:07.354] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[13:59:14.616] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[14:02:22.789] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[14:02:41.658] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[14:07:35.682] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[14:09:37.401] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[14:10:30.533] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[14:14:33.418] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[14:18:20.036] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[14:19:45.927] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[14:20:48.568] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[14:22:11.340] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[14:22:58.900] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[14:24:53.813] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[14:31:24.321] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[14:33:04.082] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[14:34:19.292] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
+[14:39:27.572] Failed to open the port. : System.IO.IOException: 'COM3' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: LG_Chem.Device.Light.LightSerialCom.PortOpen() 파일 E:\LG화학\최신 백업\LG Chem\LG_Chem\Device\Light\LightSerialCom.cs:줄 71
